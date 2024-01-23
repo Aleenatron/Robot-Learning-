@@ -5,7 +5,7 @@ This is the starting of understanding Reinforcement Learning and getting a grasp
 # Duration of Projects 
 3 months
 
-# Milestons
+# Milestones
 1. Set up nautilius
 2. Complete pytorch tutorials and all the lab assignemnts in this [course](https://alex-mitrevski.com/robot-learning.html)
 3. Proper understanding of DRIVE-SIM and SIM2Real from this [paper](https://github.com/Aleenatron/Robot-Learning-/blob/main/resources/main_640862.pdf)
